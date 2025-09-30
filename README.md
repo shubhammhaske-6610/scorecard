@@ -2,11 +2,6 @@
 
 A simple Python script designed to help educators and students track and analyze academic scores effortlessly.
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue) ![License](https://img.shields.io/badge/license-None-lightgrey) ![Stars](https://img.shields.io/github/stars/shubhammhaske-6610/Scorecard?style=social) ![Forks](https://img.shields.io/github/forks/shubhammhaske-6610/Scorecard?style=social)
-
-![Student Scorecard Preview][preview-image]
-
-
 ## ✨ Features
 
 *   **➕ Easy Score Input:** Quickly add scores for multiple students and subjects through an intuitive command-line interface.
@@ -67,23 +62,23 @@ To run the Student Scorecard script, simply execute the `Student_Scorecard.py` f
 
 ```
 Welcome to Student Scorecard!
-Enter student name (or 'done' to finish): Alice
+Enter student name (or 'done' to finish): Shubham
 Enter score for Math: 90
 Enter score for Science: 85
 Enter score for English: 92
-Enter student name (or 'done' to finish): Bob
+Enter student name (or 'done' to finish): Rajas
 Enter score for Math: 78
 Enter score for Science: 88
 Enter score for English: 80
-Enter student name (or 'done' to finish): done
+Enter student name (or 'done' to finish): Tejas
 
 --- Student Scores ---
-Alice:
+Shubham:
   Math: 90
   Science: 85
   English: 92
   Average: 89.0
-Bob:
+Rajas:
   Math: 78
   Science: 88
   English: 80
