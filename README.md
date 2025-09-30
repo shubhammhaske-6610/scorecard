@@ -1,4 +1,4 @@
-📝 Student Scorecard Project
+ Student Scorecard Project
 
 A Python-based Scorecard Application to calculate and display student grades in multiple subjects. This project is designed for students, teachers, and beginners learning Python. It demonstrates how to use functions, conditional statements, and input/output handling to create an interactive program.
 
